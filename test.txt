@@ -1,0 +1,1 @@
+Bunuda kendim yaptimgit config --list
